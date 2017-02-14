@@ -282,7 +282,13 @@ header .header-logo-overlay img {
     padding-bottom: 4em;
   }
   header .intro-text .header-logo-overlay img {
-    margin-bottom: 2em;
+    margin: 4em 0 2em;
+  }
+}
+@media (max-width: 450px) {
+  header .intro-text .header-logo-overlay img {
+    width: 100%;
+    margin: -0.5em 0 1em;
   }
 }
 section {
