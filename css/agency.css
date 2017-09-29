@@ -320,7 +320,8 @@ section h3.section-subheading {
   margin: 15px 0;
   text-transform: none;
 }
-section#listen div.col-md-6 {
+section#listen div.col-md-6,
+section#watch div.col-md-6 {
   margin-top: 2em;
 }
 section#contact {
